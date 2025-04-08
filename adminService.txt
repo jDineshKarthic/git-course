@@ -5,3 +5,4 @@ add and remove users - feature2
 change the roles - feature2
 
 manage the database
+closing the connection
