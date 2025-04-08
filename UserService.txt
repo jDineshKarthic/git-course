@@ -2,3 +2,7 @@ Get the User data...
 process the data
 
 create an avatar for user
+
+create an avatar for user2-using feature2 branch
+
+login and logout
