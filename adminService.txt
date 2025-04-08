@@ -5,6 +5,12 @@ add and remove users - feature2
 change the roles - feature2
 
 manage the database
+
+closing the connection
+
+change 2 in harsh's database
+
 closing the database connection
 
 change 2 in my database
+
